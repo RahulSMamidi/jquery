@@ -1,2 +1,1 @@
-# jquery
-![](jquery/jquery.jpg)
+
